@@ -29,3 +29,4 @@ SELECT * FROM product;
 SELECT * FROM product WHERE name LIKE '%갤럭시%';
 DELETE FROM product WHERE name LIKE '갤럭시%';
 DELETE FROM product WHERE name = '에어팟 프로' OR description LIKE '%삼성%';
+

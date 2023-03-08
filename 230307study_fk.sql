@@ -105,3 +105,4 @@ VALUES
     ('2022-02-17', 3);
     
 SELECT * FROM `order`;
+SELECT * FROM product;
